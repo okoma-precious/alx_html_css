@@ -60,3 +60,10 @@ article h2 {
 article p {
   line-height: 1.6;
 }
+
+.logo {
+  font-size: 2.5rem;
+  color: lightcyan
+  padding-right: 1rem;
+  font-weight: bold;
+}
